@@ -1,0 +1,22 @@
+n=(input())
+if(n=="I"):
+  print("1")
+elif(n=="II"):
+  print("2")
+elif(n=="III"):
+  print("3")
+elif(n=="IV"):
+  print("4")
+elif(n=="V"):
+  print("5")
+elif(n=="VI"):
+  print("6")
+elif(n=="VII"):
+  print("7")
+elif(n=="VIII"):
+  print("8")
+elif(n=="IX"):
+  print("9")
+elif(n=="X"):
+  print("10")
+
