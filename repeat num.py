@@ -6,7 +6,10 @@ for x in range(K):
         if(n[i]==n[x]):
           li.append(n[x])
 
-li.sort()
-li2=set(li)
-for x in li2:
-  print(x,end=" ")
+if (len(li)==0):
+    print("unique")
+else:
+    li.sort()
+    li2=set(li)
+    for x in li2:
+        print(x,end=" ")
