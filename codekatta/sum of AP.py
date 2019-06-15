@@ -1,5 +1,5 @@
-a,d,n=map(int,input().split())
+i,j,k=map(int,input().split())
 p=0
-for i in range(0,n+1):
-  p=p+(a+(i-1)*d)
+for k in range(0,k+1):
+  p=p+(i+(k-1)*j)
 print(p)
