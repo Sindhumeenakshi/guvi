@@ -1,4 +1,4 @@
-i=int(input())
+a=int(input())
 lis=[int(x)for x in  input().split()]
 li=[lis.sort()]
 for i in lis:
