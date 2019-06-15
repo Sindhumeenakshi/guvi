@@ -1,5 +1,3 @@
-n,e=input().split()
-e=int(e)
-lis=[int(d) for d in str(n)]
-print(lis[e-1])
-
+e,f=input().split()
+f=int(J)
+print(e[-f::])
