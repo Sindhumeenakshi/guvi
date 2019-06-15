@@ -1,3 +1,3 @@
 e,f=input().split()
-f=int(J)
+f=int(f)
 print(e[-f::])
